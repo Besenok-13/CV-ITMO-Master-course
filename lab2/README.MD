@@ -16,3 +16,5 @@
 ## 4. Выводы по работе
 
 ## 5. Использованные источники
+
+- https://docs.opencv.org/4.x/d4/dc6/tutorial_py_template_matching.html
