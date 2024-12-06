@@ -11,19 +11,45 @@
 
 ### Результаты тестирования:
 
-[![Result 1](results/res.jpg)](results/res1)
+### Result 1
+[![Result 1](results/res1.jpg)](results/res1)
+
+### Result 2
 [![Result 2](results/res2.jpg)](results/res2)
+
+### Result 3
 [![Result 3](results/res3.jpg)](results/res3)
+
+### Result 4
 [![Result 4](results/res4.jpg)](results/res4)
+
+### Result 5
 [![Result 5](results/res5.jpg)](results/res5)
+
+### Result 6
 [![Result 6](results/res6.jpg)](results/res6)
+
+### Result 7
 [![Result 7](results/res7.jpg)](results/res7)
+
+### Result 8
 [![Result 8](results/res8.jpg)](results/res8)
+
+### Result 9
 [![Result 9](results/res9.jpg)](results/res9)
+
+### Result 10
 [![Result 10](results/res10.jpg)](results/res10)
+
+### Result 11
 [![Result 11](results/res11.jpg)](results/res11)
+
+### Result 12
 [![Result 12](results/res12.jpg)](results/res12)
+
+### Result 13
 [![Result 13](results/res13.jpg)](results/res13)
+
 
 ## 4. Выводы по работе
 
