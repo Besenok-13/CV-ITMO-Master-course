@@ -30,7 +30,6 @@ def sift_matching(query_img, target_img):
     flann = cv2.FlannBasedMatcher(index_params, search_params)
     matches = flann.knnMatch(des1, des2, k=2)
 
-    # Применение ratio test
     good_matches = []
     for m, n in matches:
         if m.distance < 0.7 * n.distance:
